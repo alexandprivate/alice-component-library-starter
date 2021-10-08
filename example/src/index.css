@@ -12,3 +12,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.radios {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.radios div {
+  margin-right: 15px;
+}
